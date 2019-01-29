@@ -19,5 +19,4 @@ opengl, directx, vulkan & software:
 Compile:
 	cc *.c -o out; ./out
 	
-	Takes all (.c) files and internal includes (.h) and compiles and links them into (out)
-it then stops compiling and runs the program (out).
+	Takes all (.c) files and internal includes (.h) and compiles and links them into (out). It then stops compiling and runs the program (out).
